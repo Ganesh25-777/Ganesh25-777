@@ -2,7 +2,9 @@
 
 ### 🎓 ECE Student | 🤖 AI/ML Enthusiast | ⚡ Embedded & FPGA Developer
 
-I'm an Electronics & Communication Engineering student interested in **AI/ML, Embedded Systems, FPGA, and AI + Electronics**. I enjoy building practical projects that combine software and hardware to solve real-world problems.
+I'm an Electronics & Communication Engineering student interested in **AI/ML, FPGA, and AI + Electronics**. I enjoy building practical projects that combine software and hardware to solve real-world problems.
+
+A simple guy interested in doing research.
 
 ---
 
@@ -10,8 +12,7 @@ I'm an Electronics & Communication Engineering student interested in **AI/ML, Em
 
 * 🎓 B.Tech in Electronics & Communication Engineering
 * 🤖 Interested in **Machine Learning & AI**
-* ⚡ Exploring **Embedded Systems & FPGA**
-* 🔬 Interested in **AI + Electronics / Edge AI**
+* ⚡ Exploring **FPGA and ML Accelerators**
 * 💻 Building projects with Python, ML and hardware
 * 🌱 Continuously learning and experimenting
 
@@ -21,19 +22,19 @@ I'm an Electronics & Communication Engineering student interested in **AI/ML, Em
 
 ### 💻 Languages
 
-`Python` `C` `Verilog`
+`Python` `C` `Verilog` `C++` 
 
 ### 🤖 AI / Machine Learning
 
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `TensorFlow` `PyTorch`
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` 
 
 ### ⚡ Hardware & Embedded
 
-`ESP32` `Arduino` `8051` `FPGA` `Xilinx Vivado`
+`ESP32` `Arduino` `FPGA` `Xilinx Vivado` 
 
 ### 🔧 Tools
 
-`Git` `GitHub` `MATLAB` `VS Code`
+ `GitHub` `MATLAB` `VS Code` `Jupyter Notebook` 
 
 ---
 
@@ -46,40 +47,21 @@ I'm an Electronics & Communication Engineering student interested in **AI/ML, Em
 * Achieved **R² Score: 0.91**
 * Integrated with an **ESP32-based hardware control system**
 
-### 🧩 32-bit RISC Processor
 
-* 32-bit processor based on **RISC architecture**
-* Designed using **Verilog HDL**
-* Implementing a **5-stage pipeline**
-* Exploring instruction execution, hazards, branching and CPU datapath design
-
-### 🤖 Competizen — AI Competitor Intelligence Platform
-
-* AI-powered platform for **competitor research and analysis**
-* Automated workflow using **Make.com**
-* Interactive frontend developed using **Lovable**
-
-### ♻️ IoT-Based Waste Management System
-
-* IoT prototype for smart waste management
-* Uses sensors and microcontroller-based monitoring
-* Designed to improve waste collection and management efficiency
-
----
 
 ## 📚 Currently Learning
 
 * Machine Learning
 * Deep Learning
-* Embedded AI / Edge AI
 * FPGA & Digital Design
+* ML accelerators
 * Hardware-Software Co-design
 
 ---
 
 ## 🎯 Areas of Interest
 
-`AI/ML` `Embedded Systems` `FPGA` `Edge AI` `IoT` `Digital Design` `Hardware Acceleration`
+`AI/ML` `Embedded Systems` `FPGA` `Digital Design` `Hardware Acceleration`
 
 ---
 
